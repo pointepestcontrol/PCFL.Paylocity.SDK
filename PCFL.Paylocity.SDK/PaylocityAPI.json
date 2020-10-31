@@ -118,10 +118,7 @@
           "200": {
             "description": "Successfully Retrieved",
             "schema": {
-              "type": "array",
-              "items": {
                 "$ref": "#/definitions/employee"
-              }
             }
           },
           "401": {
